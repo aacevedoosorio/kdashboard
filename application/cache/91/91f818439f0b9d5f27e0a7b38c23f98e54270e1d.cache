@@ -1,0 +1,113 @@
+3600
+s:3850:"<?xml version="1.0" encoding="UTF-8"?>
+<fantasy_content xml:lang="en-US" yahoo:uri="http://fantasysports.yahooapis.com/fantasy/v2/users;use_login=1/games;game_keys=mlb/teams" xmlns:yahoo="http://www.yahooapis.com/v1/base.rng" time="92.329978942871ms" copyright="Data provided by Yahoo! and STATS, LLC" refresh_rate="60" xmlns="http://fantasysports.yahooapis.com/fantasy/v2/base.rng">
+ <users count="1">
+  <user>
+   <guid>QMCG5P3VKE5HBCQ7MUMVQ5YRIM</guid>
+   <games count="1">
+    <game>
+     <game_key>308</game_key>
+     <game_id>308</game_id>
+     <name>Baseball</name>
+     <code>mlb</code>
+     <type>full</type>
+     <url>http://baseball.fantasysports.yahoo.com/b1</url>
+     <season>2013</season>
+     <teams count="3">
+      <team>
+       <team_key>308.l.35495.t.14</team_key>
+       <team_id>14</team_id>
+       <name>PorTlan Pirates</name>
+       <is_owned_by_current_login>1</is_owned_by_current_login>
+       <url>http://baseball.fantasysports.yahoo.com/b1/35495/14</url>
+       <team_logos>
+        <team_logo>
+         <size>medium</size>
+         <url>http://l.yimg.com/a/i/identity2/profile_48a.png</url>
+        </team_logo>
+       </team_logos>
+       <division_id>2</division_id>
+       <waiver_priority/>
+       <number_of_moves>0</number_of_moves>
+       <number_of_trades>0</number_of_trades>
+       <roster_adds>
+        <coverage_type>week</coverage_type>
+        <coverage_value>1</coverage_value>
+        <value>0</value>
+       </roster_adds>
+       <managers>
+        <manager>
+         <manager_id>14</manager_id>
+         <nickname>AlexA</nickname>
+         <guid>QMCG5P3VKE5HBCQ7MUMVQ5YRIM</guid>
+         <is_current_login>1</is_current_login>
+        </manager>
+       </managers>
+      </team>
+      <team>
+       <team_key>308.l.56655.t.4</team_key>
+       <team_id>4</team_id>
+       <name>PorTlan Pirates</name>
+       <is_owned_by_current_login>1</is_owned_by_current_login>
+       <url>http://baseball.fantasysports.yahoo.com/b1/56655/4</url>
+       <team_logos>
+        <team_logo>
+         <size>medium</size>
+         <url>http://l.yimg.com/a/i/identity2/profile_48a.png</url>
+        </team_logo>
+       </team_logos>
+       <waiver_priority/>
+       <number_of_moves>0</number_of_moves>
+       <number_of_trades>0</number_of_trades>
+       <roster_adds>
+        <coverage_type>week</coverage_type>
+        <coverage_value>1</coverage_value>
+        <value>0</value>
+       </roster_adds>
+       <managers>
+        <manager>
+         <manager_id>4</manager_id>
+         <nickname>AlexA</nickname>
+         <guid>QMCG5P3VKE5HBCQ7MUMVQ5YRIM</guid>
+         <is_current_login>1</is_current_login>
+        </manager>
+       </managers>
+      </team>
+      <team>
+       <team_key>308.l.56659.t.4</team_key>
+       <team_id>4</team_id>
+       <name>PorTlan Pirates</name>
+       <is_owned_by_current_login>1</is_owned_by_current_login>
+       <url>http://baseball.fantasysports.yahoo.com/b1/56659/4</url>
+       <team_logos>
+        <team_logo>
+         <size>medium</size>
+         <url>http://l.yimg.com/a/i/identity2/profile_48a.png</url>
+        </team_logo>
+       </team_logos>
+       <waiver_priority/>
+       <faab_balance>100</faab_balance>
+       <number_of_moves>0</number_of_moves>
+       <number_of_trades>0</number_of_trades>
+       <roster_adds>
+        <coverage_type>week</coverage_type>
+        <coverage_value>1</coverage_value>
+        <value>0</value>
+       </roster_adds>
+       <managers>
+        <manager>
+         <manager_id>4</manager_id>
+         <nickname>AlexA</nickname>
+         <guid>QMCG5P3VKE5HBCQ7MUMVQ5YRIM</guid>
+         <is_current_login>1</is_current_login>
+        </manager>
+       </managers>
+      </team>
+     </teams>
+    </game>
+   </games>
+  </user>
+ </users>
+</fantasy_content>
+<!-- fan59.sports.bf1.yahoo.com compressed/chunked Thu Mar 14 15:02:05 PDT 2013 -->
+";
